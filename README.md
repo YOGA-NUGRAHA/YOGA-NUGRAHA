@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Pelajar yang tertarik pada pengembangan web.<br>💻 Fokus pada HTML, CSS, PHP, Laravel & Tailwind.<br>🏟️ Sedang membangun platform forum sekolah sepak bola Kab. Bogor.<br>🚀 Anggota MOONSTARTUP.<br>📬 Email: [nugrahayoga221@email.com]<br>
+👨‍🎓 Pelajar yang tertarik pada pengembangan web.<br>💻 Fokus pada HTML, CSS, PHP, Laravel & Tailwind.<br>🏟️ Sedang membangun platform forum sekolah sepak bola Kab. Bogor.<br>🚀 Anggota MOONSTARTUP.<br>📬 Email: nugrahayoga221@email.com<br>
 
 
 ## 🌐 Socials:
