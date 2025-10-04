@@ -1,5 +1,11 @@
 # Hi 👋, I'm Mochamad Yoga Trinugraha
-👨‍🎓 Pelajar yang tertarik pada pengembangan web.<br>💻 Fokus pada HTML, CSS, PHP, java, Laravel & Tailwind.<br>🏟️ Sedang membangun platform forum sekolah sepak bola Kab. Bogor.<br>📬 Email: nugrahayoga221@email.com<br>
+🔭 I’m currently working on [management klinik](http://klinik.b-onecorp.co.id/) <br>
+
+🌱 I’m currently learning **Laravel** <br>
+
+💬 Ask me about **Laravel** <br>
+
+📫 How to reach me **nugrahayoga221@gmail.com** <br>
 
 
 ## 🌐 Socials:
